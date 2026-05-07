@@ -1,0 +1,11 @@
+pandas==2.2.3
+pystac==1.11.0
+fsspec==2024.10.0
+xarray==2024.10.0
+tqdm==4.66.5
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.2
+pystac-client==0.8.5
+planetary-computer==1.0.0
+adlfs==2024.7.0
